@@ -1,6 +1,9 @@
 # <img width="50%" src="https://user-images.githubusercontent.com/88527089/212927559-7a5477cf-17cd-4442-8244-c11acf32185d.png"/>
 기존 전북대학교 중앙도서관 공식 어플리케이션에서 자리 예약 기능을 추가하여 개발해 본  
-JBNU Mobile Library V2 입니다
+JBNU Mobile Library V2 입니다  
+
+## 🎬 Demo 🎬
+<img src="https://user-images.githubusercontent.com/88527089/213115039-5a589f16-b5c9-4288-86fe-51b907efd53a.gif"/>
 
 ## 🛠 Tech Stacks 🛠
 <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
