@@ -1,5 +1,5 @@
 # <img width="50%" src="https://user-images.githubusercontent.com/88527089/212927559-7a5477cf-17cd-4442-8244-c11acf32185d.png"/>
-기존 전북대학교 중앙도서관 공식 어플리케이션에서 자리 예약 기능을 추가하여 개발해 본  
+기존 전북대학교 중앙도서관 공식 어플리케이션에서 자리 예약 기능의 UX/UI를 추가하여 개발해 본  
 JBNU Mobile Library V2 입니다  
 
 ## 🎬 Demo 🎬
